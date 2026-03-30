@@ -1,4 +1,6 @@
 java-prime-number-checker
+
+
 This project is a Java program that checks whether a number is prime or not. It uses an efficient method and handles invalid inputs. It helped me understand basic programming concepts, logic building, and writing clean and simple code. Project Report: Java Prime Checker
 
 Introduction This project focuses on building a simple yet practical Java application that determines whether a given number is prime or not. Prime numbers are fundamental in mathematics and play an important role in areas like cryptography, algorithms, and data structures.
